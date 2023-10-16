@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">android-course-BroadcastReciever</string>
+    <string name="app_hash_key">xEU2yQzNnLg</string>
+    <string name="example_code_message">Your code is:8343499 xEU2yQzNnLg</string>
+    <string name="succes_code_message">Your code is: </string>
+    <string name="time_out_code_message">Time is out </string>
+    <string name="receiver_works_success_message">"SMS received! Broadcast receiver works!"</string>
+</resources>
